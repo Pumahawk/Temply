@@ -1,0 +1,15 @@
+{
+    "name": "pumahawk/temply",
+    "description": "Simple php template engine",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lorenzo Gandino",
+            "email": "lorenzoga94@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    	"psr-4": {"Temply\\": "src/"}
+    }
+}
